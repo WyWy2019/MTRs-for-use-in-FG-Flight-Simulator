@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+  <version type="int">2</version>
+  <flight-rules type="string">V</flight-rules>
+  <flight-type type="string">M</flight-type>
+  <estimated-duration-minutes type="int">40</estimated-duration-minutes>
+  <route>
+    <wp>
+      <type type="string">basic</type>
+      <ident type="string">A</ident>
+      <lon type="double">-120.03666</lon>
+      <lat type="double">45.785</lat>
+    </wp>
+    <wp n="1">
+      <type type="string">basic</type>
+      <ident type="string">B</ident>
+      <lon type="double">-120.825</lon>
+      <lat type="double">45.99</lat>
+    </wp>
+    <wp n="2">
+      <type type="string">basic</type>
+      <ident type="string">C</ident>
+      <lon type="double">-121.2816</lon>
+      <lat type="double">46.635</lat>
+    </wp>
+    <wp n="3">
+      <type type="string">basic</type>
+      <ident type="string">D</ident>
+      <lon type="double">-121.3416</lon>
+      <lat type="double">47.32</lat>
+    </wp>
+    <wp n="4">
+      <type type="string">basic</type>
+      <ident type="string">E</ident>
+      <lon type="double">-120.99</lon>
+      <lat type="double">47.9616</lat>
+    </wp>
+    <wp n="5">
+      <type type="string">basic</type>
+      <ident type="string">F</ident>
+      <lon type="double">-121.34</lon>
+      <lat type="double">48.2916</lat>
+    </wp>
+    <wp n="6">
+      <type type="string">basic</type>
+      <ident type="string">Q</ident>
+      <lon type="double">-122.0666</lon>
+      <lat type="double">48.345</lat>
+    </wp>
+    <wp n="7">
+      <type type="string">basic</type>
+      <ident type="string">G</ident>
+      <lon type="double">-122.265</lon>
+      <lat type="double">48.38833</lat>
+    </wp>
+  </route>
+</PropertyList>
