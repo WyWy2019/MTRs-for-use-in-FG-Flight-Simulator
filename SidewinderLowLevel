@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+  <version type="int">2</version>
+  <flight-rules type="string">V</flight-rules>
+  <flight-type type="string">M</flight-type>
+  <estimated-duration-minutes type="int">0</estimated-duration-minutes>
+  <route>
+    <wp>
+      <type type="string">basic</type>
+      <ident type="string">A</ident>
+      <lon type="double">-118.48233</lon>
+      <lat type="double">35.645833</lat>
+    </wp>
+    <wp n="1">
+      <type type="string">basic</type>
+      <ident type="string">B</ident>
+      <lon type="double">-118.48533</lon>
+      <lat type="double">36.11</lat>
+    </wp>
+    <wp n="2">
+      <type type="string">basic</type>
+      <ident type="string">C</ident>
+      <lon type="double">-118.0095</lon>
+      <lat type="double">36.41233</lat>
+    </wp>
+    <wp n="3">
+      <type type="string">basic</type>
+      <ident type="string">D</ident>
+      <lon type="double">-117.975833</lon>
+      <lat type="double">36.5935</lat>
+    </wp>
+    <wp n="4">
+      <type type="string">basic</type>
+      <ident type="string">E</ident>
+      <lon type="double">-118.213167</lon>
+      <lat type="double">37.048</lat>
+    </wp>
+    <wp n="5">
+      <type type="string">basic</type>
+      <ident type="string">F</ident>
+      <lon type="double">-117.769833</lon>
+      <lat type="double">37.153</lat>
+    </wp>
+    <wp n="6">
+      <type type="string">basic</type>
+      <ident type="string">G</ident>
+      <lon type="double">-117.618167</lon>
+      <lat type="double">37.036167</lat>
+    </wp>
+    <wp n="7">
+      <type type="string">basic</type>
+      <ident type="string">H</ident>
+      <lon type="double">-117.7615</lon>
+      <lat type="double">36.799167</lat>
+    </wp>
+    <wp n="8">
+      <type type="string">basic</type>
+      <ident type="string">I</ident>
+      <lon type="double">-117.5675</lon>
+      <lat type="double">36.514</lat>
+    </wp>
+    <wp n="9">
+      <type type="string">basic</type>
+      <ident type="string">J</ident>
+      <lon type="double">-117.351333</lon>
+      <lat type="double">36.344833</lat>
+    </wp>
+    <wp n="10">
+      <type type="string">basic</type>
+      <ident type="string">K</ident>
+      <lon type="double">-117.360333</lon>
+      <lat type="double">35.655667</lat>
+    </wp>
+    <wp n="11">
+      <type type="string">basic</type>
+      <ident type="string">L</ident>
+      <lon type="double">-117.526</lon>
+      <lat type="double">35.61067</lat>
+    </wp>
+    <wp n="12">
+      <type type="string">basic</type>
+      <ident type="string">M</ident>
+      <lon type="double">-117.672</lon>
+      <lat type="double">35.4233</lat>
+    </wp>
+  </route>
+</PropertyList>
